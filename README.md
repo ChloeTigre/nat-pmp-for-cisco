@@ -1,6 +1,10 @@
 # nat-pmp-for-cisco
 A quick hack to make NAT-PMP work with my Cisco 891 router
 
+# current state
+
+just an idea, need to test and implement this.
+
 # draft design
 
 Run this in a VM.
